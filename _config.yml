@@ -5,29 +5,31 @@ author: Hongseok Kim
 email: you@example.com
 theme: minima
 
-# If you ever use a project site (not personal), set baseurl: "/repo-name"
-baseurl: ""           # the subpath of your site, e.g. /blog
-url: ""               # the base hostname & protocol, e.g. https://yourusername.github.io
+# Personal site at https://username.github.io
+url: ""
+baseurl: ""
 
-# Show pages in the top navigation (works with minima)
+# Show these in the top nav
 header_pages:
   - about.md
-  - journal.md
   - hobbies.md
+  - learning.md
+  - thoughts.md
 
-# Collections for separate sections
+# Three collections
 collections:
-  journal:
-    output: true
-    permalink: /journal/:path/
   hobbies:
     output: true
     permalink: /hobbies/:path/
+  learning:
+    output: true
+    permalink: /learning/:path/
+  thoughts:
+    output: true
+    permalink: /thoughts/:path/
 
-# Social links (optional; shows in footer for minima)
+# (Optional) footer social links
 minima:
   social_links:
     - platform: github
       user_url: https://github.com/yourusername
-    - platform: linkedin
-      user_url: https://www.linkedin.com/in/your-profile/
