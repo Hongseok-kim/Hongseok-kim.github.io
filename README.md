@@ -2,7 +2,7 @@
 
 **How to publish**
 
-1) Create a **public** repository named **yourusername.github.io** on GitHub (replace `yourusername`).
+1) Create a **public** repository named **yourusername.github.io** on GitHub (replace `yourusername`). 
 2) Upload everything from this folder to the **root** of that repo.
 3) In the repo: **Settings → Pages** → set **Source** to your default branch (e.g., `main`) and **Folder** to `/ (root)`.
 4) Visit **https://yourusername.github.io**.
