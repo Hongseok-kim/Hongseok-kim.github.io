@@ -7,7 +7,7 @@ permalink: /activities/
 Newest first:
 
 <ul>
-  {%- assign items = site.hobbies | sort: "date" | reverse -%}
+  {%- assign items = site.activities | sort: "date" | reverse -%}
   {%- for item in items -%}
     <li>
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
