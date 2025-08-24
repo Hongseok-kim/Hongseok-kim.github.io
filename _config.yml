@@ -20,7 +20,7 @@ header_pages:
 collections:
   hobbies:
     output: true
-    permalink: /hobbies/:path/
+    permalink: /activities/:path/
   learning:
     output: true
     permalink: /learning/:path/
