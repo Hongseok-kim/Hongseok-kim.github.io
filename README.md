@@ -18,3 +18,5 @@
 
 - This starter uses the official **minima** theme, which requires no extra build setup on GitHub Pages.
 - If you see a 404 right after enabling Pages, give it a moment and refresh.
+
+*I got this starter package from ChatGPT 5*
