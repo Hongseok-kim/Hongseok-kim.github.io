@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hobbies
-permalink: /hobbies/
+title: Activities
+permalink: /activities/
 ---
 
 Newest first:
