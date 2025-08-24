@@ -12,7 +12,7 @@ baseurl: ""
 # Show these in the top nav
 header_pages:
   - about.md
-  - hobbies.md
+  - activities.md
   - learning.md
   - thoughts.md
 
