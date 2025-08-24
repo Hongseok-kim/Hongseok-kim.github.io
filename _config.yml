@@ -14,6 +14,7 @@ header_pages:
   - activities.md
   - learning.md
   - thoughts.md
+  - guestbook.md
 
 # Three collections
 collections:
